@@ -7,17 +7,20 @@ multiple financial and transactional data sources.
 
 ## 📊 Preview
 
+### Navigation
+![Navigation](00-navigation.jpeg)
+
 ### Income Statement
 ![Income Statement](01-income-statement.jpeg)
 
 ### Balance Sheet
 ![Balance Sheet](02-balance-sheet.jpeg)
 
-### Cash Flow
-![Cash Flow](03-cash-flow.jpeg)
+### Cash Flow Statement
+![Cash Flow Statement](03-cash-flow-statement.jpeg)
 
-### Trial Balance
-![Trial Balance](04-trial-balance.jpeg)
+### Aged Trial Balance
+![Aged Trial Balance](04-aged-trial-balance.jpeg)
 
 ### Financial Details
 ![Financial Details](05-financial-details.jpeg)
@@ -25,13 +28,13 @@ multiple financial and transactional data sources.
 ### Revenue Insights
 ![Revenue Insights](06-revenue-insights.jpeg)
 
-## What this dashboard does
+## 🔧 What this dashboard does
 - Consolidates Sales Orders, Customer, Regional, Product, and 
   Company Expense data into a single reporting model
-- Custom DAX measures reconcile multiple financial and transactional 
-  sources with high accuracy
-- Six interconnected report pages: Income Statement, Balance Sheet, 
-  Cash Flow, Trial Balance, Financial Details, Revenue Insights
+- Custom DAX measures reconcile figures across statements and 
+  calculate key financial metrics
+- Six interconnected report pages accessible via a central 
+  navigation menu
 
 ## 🗂️ Files
 - `Financial Reporting Dashboard.pbix` — Power BI source file
