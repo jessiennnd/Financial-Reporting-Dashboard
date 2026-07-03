@@ -4,7 +4,7 @@
 ![Navigation](00-navigation.jpeg)
 
 ### Income Statement
-![Income Statement](01-income-statement.jpeg)
+![Income Statement](01-income-statement-.jpeg)
 
 ### Financial Details
 ![Financial Details](02-financial-details.jpeg)
