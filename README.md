@@ -1,7 +1,7 @@
 ## 📊 Preview
 
 ### Navigation
-![Navigation](00-navigation.jpeg)
+![Navigation](00-navigation-page.jpeg)
 
 ### Income Statement
 ![Income Statement](01-income-statement-.jpeg)
