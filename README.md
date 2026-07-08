@@ -7,7 +7,7 @@
 ![Income Statement](01-income-statement-.jpeg)
 
 ### Financial Details
-![Financial Details](02-financial-details.jpeg)
+![Financial Details](02-financial-details-.jpeg)
 
 ### Balance Sheet
 ![Balance Sheet](03-balance-sheet.jpeg)
